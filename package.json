@@ -1,11 +1,12 @@
 {
   "name": "rebuildcodes",
   "version": "1.0.0",
-  "private":"true",
+  "private": "true",
   "main": "index.js",
   "license": "MIT",
-  "workspaces":[
+  "workspaces": [
     "buf-website-clone",
-    "dona.ai-clone"
+    "dona.ai-clone",
+    "rebuild-codes-website"
   ]
 }
