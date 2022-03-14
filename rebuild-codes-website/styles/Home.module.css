@@ -12,6 +12,10 @@
   align-items: center;
 }
 
+.bg{
+  background: linear-gradient(132.32deg, #0F2F01 11.59%, #000000 53.23%);
+  height: 100vh;
+}
 .footer {
   display: flex;
   flex: 1;
